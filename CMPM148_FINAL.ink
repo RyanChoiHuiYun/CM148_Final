@@ -146,6 +146,35 @@ At midnight, Clark was awakened by a nightmare. He looked through the window and
 ->Day2
 
 ===Day2
+*Day2
+It was a rough night for Clark. But as the birds began chirping their echoes all around the house, Clark got up and prepared himself for a new day. 
+->31missing_couple
+
+===31missing_couple
+Having been familiarized himself with the estate yesterday, Clark quickly moved to the living room to rendevouz with the Quinn and the others. As he was approaching the area, he was amazed that he wasn't the first one to arrive. In fact, Clark arrived the last. Everyone else were already there, murmuring in each of the corners under an odd atmosphere. Clark stood there in the opening and tried to get a sense of what's happening, and finally he realized something. 
+The Quinn couple wasn't present, and all the others were discussing the missing of the couple on their own.
+*[Find the couple] ->32strange_room
+
+===32strange_room
+Clark cannot stand the atmosphere and decided to look for the Quinn on his own. He arrived at their room, and strangely the door remained unlocked and slighly opened. Clark knocked the door twice, perhaps for a sense of formality, and stepped inside the room in hope that the Quinn were in there. Unsurprisingly, the Quinn couple was not in their room, but Clark did notice something else.
+*[Investigate the travel case] -> 321travel_case
+*[Investigate the weird shoes] ->322shoes
+
+===321travel_case
+Clark investigated the travel case that was left on the ground. Clark crouched and wondered why the briefcases were all over the places. When he inspected closely, he found out something strange. 
+On one briefcase, the name tag had "Frederick Tate" written on it. While the others had the name "Mary Paul". Indeed this was weird as none of the names includes "Quinn" anywhere. 
+*[Investigate the names] ->3211fake_couple
+
+
+===3211fake_couple
+Clark googled the names and found:
+"Frederick Tate(born November 24 1991) is a British actor that is known for his menacing charisma when portraying the antagonist, more commonly known as the 'Badguy'..."
+After scrolling down a bit, Clark also found that Mary Paul was also related to Frederick Tate:
+"Under the same acting agency, Mary Paul costarred Tate in various films and gained reputations together."
+Clark was confused, were the Quinns not the Quinns? 
+->END
+===322shoes
+
 ->END
 
 
