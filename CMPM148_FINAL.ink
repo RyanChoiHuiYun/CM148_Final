@@ -93,7 +93,9 @@ A feeling of unease rose up from his heart.
 *[Leaving]
 ->23Aunt_Pennys_terrible_cooking
 
-*[Continue to explore]
+*[Continue to explore] -> 2211latch
+
+===2211latch
 Notice a dresser is not all the way against wall, Clark looked behind.There is a latch that can be pulled.Clark open the latch and look into a pitch black void with two white dots stair back at Clark.Clark scrambled out of the room
 ~Insanity+=1
 
@@ -189,6 +191,20 @@ Penny was certainly shaking and did not want to stay in the estate any longer.
 *"You are probably right, Aunt..." Although Penny might be a bit unstable at the moment, but what she said did make some sense to Clark. ->3321tellEveryone
 
 ===332jarex
+Clark talked to Jarex. Jarex, although worried, was offering Clark some of his thoughts regarding the stains.
+"I don't know what you have heard from the others, but this doesn't seem to be blood if I am being honest." 
+As per usual, Jarex talked with ease and gave a sense of beliefs in his words.
+
+*[Disagree with Jarex] "Well why not? It looks like blood to me." Clark disagreed with Jarex and stepped aside. -> 3321tellEveryone
+*{2312Rubbishbin}[Agree with Jarex] "Yes Jarex, I agree with you as I found something yesterday." Clark agreed with Jarex and set to tell everyone about his finding. ->3322glove
+
+===3322glove
+Clark stepped to the center of the room and told everyone that he found a pair of gloves yesterday, stained with red paintings. 
+However, in a situation like this, such information was only adding more chaos to the room, people were starting to murmur again.
+Clark then raised his voice even louder, and firmly said:
+"I believe those stains in the courtyard are also just paints. As for Mr. and Mrs. Quinn, I will go to their room and see what I can find." 
+Clark actually did not want to look for them on his own, he just wanted to escape the room filled with distress. After all, he came here for fortune, not misfortune.
+*[Go to the Quinns' room] ->32strange_room
 
 ->END
 
@@ -218,17 +234,17 @@ Although Clark cannot quite comprehend what the voices were, he was sure that th
 "Mr... and Mrs Quinn?" Clark mumbled the words to himself as he finally recognized the voices of the distant conversation behind the door. It was the Quinns behind the door.
 *{2321Marshalls_lifetime and 3211fake_couple}[Try to find a way to open the door] -> 326normalhe1
 *{333leo}[Try to listen to their conversations] -> 3261bigFinding
-*[Try to open the door with force] -> 3262phychicbe
+*[Try to open the door with force] -> 3262psychicbe
 
-===3262phychicbe
+===3262psychicbe
 Clark realized he did not have the key to open the door, so he took a few steps back and poised himself to charge down the door with pure force. 
 With only one firm kick, the door was burst open. As the dust began to disperse at the entrance, Clark could not believe what he was witnessing.
 Not too far away from the entrance, there was a naked body lying on an altar. The body was ripped open and a dagger appeared to pierce through the abdomen. Clark took a look at the face of the body, it was Mr. Quinn despite most of his facial feature was displaced.
 "Mar...shall...arghhh..." Next to Mr. Quinn's remaining, a familiar voice was yelling. Clark turned his head next to the body, and out of the pure image of the scene, he fell aback and left sitting on the bloody floor. It was Mrs. Quinn's head, separated from her body and placed alone on a scale. Her mouth was gagged with shattered guts and she was making some terrified noises.
 Clark tried to regain his senses. But in a situation like this, he could not move even if he wanted to. His whole body froze, grasping the blood on the floor in hope that this was just another nightmare. 
-*[Crawl back up] -> 329physicbe
+*[Crawl back up] -> 329psychicbe
 
-===329physicbe
+===329psychicbe
 Clark tried desperately to crawl back up with the help of the survival instinct. He quickly turned around and ran to the doorway as quick as possible. 
 "Ah, not so fast kid." 
 Out of nowhere, Clark stumbled upon a man dressed with a black robe. 
@@ -270,9 +286,35 @@ Clark was confused, why were two actors' names on the Quinns' briefcases?
 *[Are the Quinns not the Quinns?] -> 323breeze
 
 ===323breeze
-As Clark was occupied by the confusing thoughts, he felt a breeze that shivers his spine from underneath. There was a slightly crack on the floor, leaving a small creek for the frozen stream to ascend. Clark shaked at first, but soon after he realized that the stream of cold means something was beneath the floor. Clark regained his posture and put his fingers underneath the cracked floor. He quickly sensed a round object with polished texture. He put both hands under the floor to try to lift up the cracked wooden tile, and indeed he succeeded. What's under the tile though, surprised Clark, as the rounded polished object turned out to be a doorknob, and the door that laid on the surface of the floor was opened. That was where the flow of breeze was coming from.
+As Clark was occupied by the confusing thoughts, he felt a breeze that shivers his spine from underneath. There was a slightly crack on the floor, leaving a small creek for the frozen stream to ascend. Clark shaked at first, but soon after he realized that the stream of cold means something was beneath the floor. Clark regained his posture and put his fingers underneath the cracked floor. He quickly sensed a round object with polished texture. He put both hands under the floor to try to lift up the cracked wooden tile, and indeed he succeeded. What's under the tile though, surprised Clark, as the rounded polished object turned out to be a doorknob, and the door that laid on the surface of the floor was opened. That was where the flow of breeze was coming from. 
+*[Go beyond the door] Clark lifted the door open and went inside. -> 324underground
+
+===324underground
+With a even stronger breeze coming right toward Clark's face, he struggled to open his eyes and discovered something magnificent. 
+The other side of this broken door was another world on its own. Although dark, Clark could feel the vastness of the area. Winds were blowing still but Clark was able to discover the area, and so he did.
+*[Investigate an odd aura] Clark kept going and noticed an odd aura was emitting in the corner. -> 3241latch
+*[Keep going] Clark kept going forward and soon he stumbled upon a door. -> 325block
+
+===3241latch
+Clark saw a latch that looked way out of place.
+*{2211latch}[Remeber last time pulling the latch] ->3242latch
+*{not 2211latch}[Pull the latch] -> 32422open
+*[Don't pull the latch and keep going] Clark disregarded the latch and kept on moving until he stumbled upon a door. -> 325block
+
+===3242latch
+Clark remembered last time he pulled the latch something terrifying happened. 
+*[Pull the latch anyway] -> 32422open
+*[Stray away and keep going] Clark kept going forward and soon he stumbled upon a door. -> 325block
+->END
+===32422open
+Clark opened the latch and saw a pair of eyes looking straight back at him. 
+~Insanity+=1
+*[Turn around and keep going] As Clark was horrified by the scene, he quickly turned around and kept going. Not soon after, he calmed himself down and stumbled upon a door. -> 325block
+
 ->END
 ===322shoes
+Clark noticed the couples' shoes were still in the room. How odd.
+*Surely they won't go anywhere without their shoes on...  ->323breeze
 
 ->END
 
