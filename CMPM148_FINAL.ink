@@ -257,7 +257,26 @@ FIN.
 ->END
 
 ===3261bigFinding
+As Clark inclined even closer to the door, the door suddenly opened. It was Mr and Mrs Quinn who were walking out from it.
+"Oh, Clark!" Apparently Mr Quinn was surprised by seeing Clark.
+"Mr Quinn, and Mrs Quinn..." Clark gave a sigh of relief after confirming they were the missing couple. "We were all worried about you two suddenly gone missing."
+"Ah we are sorry about that," Mrs Quinn responded, "we need to confirm something. Remember what we told you about last night about the 'big finding'? Have a look inside and see for yourself."
+[Enter the door] Clark was confused, but he followed the couple and entered the door. -> 328witchcraft
 
+===328witchcraft
+Inside the door, there was a weird scent flowing all around the place. As Mr Quinn lit up the candle, Clark could not believe what he was seeing. There were multiple counters that were engraved with weird symbols and writings. Containers and phials were all over the place, filling with weird colored liquid. 
+"This is... some witchery lab?" Without a better choice of word, Clark asked the couple. 
+"We are not sure. But it indeed looks something related to witchcraft rituals." Mr Quinn continued, "we wanted to see for ourselves before telling the others about this, because this is quite something... Something terrifying."
+"If that's the case, we should definitely head back and tell the others." Clark sensed danger inside this hidden room and urged the couple to return for the estate. 
+*[Return to the estate] -> 329end
+
+===329end
+Clark and the Quinns couple returned to the estate. Everyone was still waiting in the living room area as they welcomed them back. The others seemed to be relieved when seeing the Quinns safely returned to the estate, but soon turned into another form of distress as they learnt about the hidden room, the witchcraft props, and the mysterious ambience surrounding this estate. 
+The time was already late after the group dispersed, and Clark went straight into bed after having a long day.
+
+->Day3
+
+===Day3
 
 ->END
 
