@@ -170,8 +170,13 @@ On one briefcase, the name tag had "Frederick Tate" written on it. While the oth
 Clark googled the names and found:
 "Frederick Tate(born November 24 1991) is a British actor that is known for his menacing charisma when portraying the antagonist, more commonly known as the 'Badguy'..."
 After scrolling down a bit, Clark also found that Mary Paul was also related to Frederick Tate:
-"Under the same acting agency, Mary Paul costarred Tate in various films and gained reputations together."
-Clark was confused, were the Quinns not the Quinns? 
+"Under the same acting agency, Mary Paul costarred Tate in various films and gained reputations together, some good and some bad."
+Clark was confused, why were two actors' names on the Quinns' briefcases?
+
+*[Are the Quinns not the Quinns?] -> 323breeze
+
+===323breeze
+As Clark was occupied by the confusing thoughts, he felt a breeze that shivers his spine from underneath. There was a slightly crack on the floor, leaving a small creek for the frozen stream to ascend. Clark shaked at first, but soon after he realized that the stream of cold means something was beneath the floor. Clark regained his posture and put his fingers underneath the cracked floor.  
 ->END
 ===322shoes
 
