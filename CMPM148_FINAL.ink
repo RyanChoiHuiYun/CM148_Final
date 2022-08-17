@@ -185,7 +185,12 @@ Clark talked to Penny. Although Penny was confident with her cooking, she seemed
 Penny was certainly shaking and did not want to stay in the estate any longer.
 "Listen Clarky," She came close to Clark and talked melancholically with a low voice, "I think those must be the blood of Mr. Quinn and Mrs. Quinn. That's the only explanation on why they are not present here right now..." 
 *{333leo}"Calm down, it might just be some animal blood." Clark tried to ease out Aunt Penny. ->3321tellEveryone
+*{not 333leo}[Comfort Aunt Penny and gather more information] Clark calmed Aunt Penny down and stepped aside. -> 3330talk
 *"You are probably right, Aunt..." Although Penny might be a bit unstable at the moment, but what she said did make some sense to Clark. ->3321tellEveryone
+
+===332jarex
+
+->END
 
 ===3321tellEveryone
 With the current situation, Clark decided to tell everyone in the room about what he saw last night. 
@@ -198,17 +203,49 @@ Clark felt that what he saw last night was related to the bloodstains and the mi
 
 
 ===333entrance
-Clark and the others took a stroll into the woods. Although everyone was still confused and stress from the situation, a bit of fresh air from the gigantic red wood forests certainly helped ease some of the uneasy atmosphere within the group. 
-The stroll ended relatively quickly though, as Clark discovered something near a giant trunk of red wood tree soon after. 
-"Guys, come here." Clark yelled, his voice echoed by the surrounding trees. He crouched down and inspected closely at the ground as he noticed something beneath the soil. Something was reflecting the lights. 
-"Alright what do you find?" As the group gathered back around Clark, Clark pointed at the reflection.
-"This odd reflection here..." while Clark spoke, he put both his hands into the mud and tried to paved out the soil. And soon after, a metal door appeared. "Voila! A hidden metal door." Clark and the others were amazed by the finding, but it was more of a comforting distraction as they did not know how was it related to both the blood stains and the Quinns. 
+Clark and the others took a stroll into the woods. Although everyone was still confused and stress from the situation, a bit of fresh air from the gigantic red wood forests certainly helped ease some of the uneasy atmosphere within the group. Because the forest was so big, the group decided to split up and look for clues.
+The stroll ended relatively quickly for Clark though, as he discovered something near a giant trunk of red wood tree soon after. 
+"Guys, come here." Clark yelled, his voice echoed by the surrounding trees, but no one answered. He crouched down and inspected closely at the ground as he noticed something beneath the soil. Something was reflecting the lights. 
+"This odd reflection here..." Clark was speaking to himself as he put both his hands into the mud and tried to pave out the soil. And soon after, a metal door appeared. "Voila! A hidden door!" 
+Clark was amazed by the finding, but it was more of a comforting distraction as he did not know how was it related to both the blood stains and the Quinns. 
+*[Lean close to the door] ->325block
+
+===325block
+There were voices coming from behind the door, vague but familiar. Clark leaned even closer to the door and tried hear the voice. 
+"...Ma..."
+"Haha.........Shall"
+Although Clark cannot quite comprehend what the voices were, he was sure that they were human voices and they sound very very familiar.
+"Mr... and Mrs Quinn?" Clark mumbled the words to himself as he finally recognized the voices of the distant conversation behind the door. It was the Quinns behind the door.
+*{2321Marshalls_lifetime and 3211fake_couple}[Try to find a way to open the door] -> 326normalhe1
+*{333leo}[Try to listen to their conversations] -> 3261bigFinding
+*[Try to open the door with force] -> 3262phychicbe
+
+===3262phychicbe
+Clark realized he did not have the key to open the door, so he took a few steps back and poised himself to charge down the door with pure force. 
+With only one firm kick, the door was burst open. As the dust began to disperse at the entrance, Clark could not believe what he was witnessing.
+Not too far away from the entrance, there was a naked body lying on an altar. The body was ripped open and a dagger appeared to pierce through the abdomen. Clark took a look at the face of the body, it was Mr. Quinn despite most of his facial feature was displaced.
+"Mar...shall...arghhh..." Next to Mr. Quinn's remaining, a familiar voice was yelling. Clark turned his head next to the body, and out of the pure image of the scene, he fell aback and left sitting on the bloody floor. It was Mrs. Quinn's head, separated from her body and placed alone on a scale. Her mouth was gagged with shattered guts and she was making some terrified noises.
+Clark tried to regain his senses. But in a situation like this, he could not move even if he wanted to. His whole body froze, grasping the blood on the floor in hope that this was just another nightmare. 
+*[Crawl back up] -> 329physicbe
+
+===329physicbe
+Clark tried desperately to crawl back up with the help of the survival instinct. He quickly turned around and ran to the doorway as quick as possible. 
+"Ah, not so fast kid." 
+Out of nowhere, Clark stumbled upon a man dressed with a black robe. 
+"You see, since you crashed into the ritual without my invitation, I can only think that this is a gift send by the Worshipped. Perhaps you are my final puzzle to solve the death of my beloved son."
+Clark heard what the man was talking, but at the same time did not hear in a thing. Just as he regained his posture and tried to break way, he felt something pierce from his mouth through his head, and he slowly lost his consciousness.
+But before he completely lost sight in front of him, he took a look at the man with the robe. Clark thought he saw this face beneath the robe somewhere in the estate, and left dying with an awed face......
+
 
 ->END
 
+===3261bigFinding
+->END
+
+===326normalhe1
 
 ->END
-===332jarex
+
 
 ->END
 
