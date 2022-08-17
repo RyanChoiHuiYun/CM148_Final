@@ -178,7 +178,6 @@ Clark stood there for a moment, not sure how to respond to Leo.
 *[Gather more information] -> 3330talk
 *[Tell everyone about last night] -> 3321tellEveryone
 
-->END
 ===331penny
 Clark talked to Penny. Although Penny was confident with her cooking, she seemed very distress with the situation. She shakely said:
 "Clarky, oh lord. You are finally here."
@@ -206,7 +205,6 @@ Clark then raised his voice even louder, and firmly said:
 Clark actually did not want to look for them on his own, he just wanted to escape the room filled with distress. After all, he came here for fortune, not misfortune.
 *[Go to the Quinns' room] ->32strange_room
 
-->END
 
 ===3321tellEveryone
 With the current situation, Clark decided to tell everyone in the room about what he saw last night. 
@@ -261,7 +259,7 @@ As Clark inclined even closer to the door, the door suddenly opened. It was Mr a
 "Oh, Clark!" Apparently Mr Quinn was surprised by seeing Clark.
 "Mr Quinn, and Mrs Quinn..." Clark gave a sigh of relief after confirming they were the missing couple. "We were all worried about you two suddenly gone missing."
 "Ah we are sorry about that," Mrs Quinn responded, "we need to confirm something. Remember what we told you about last night about the 'big finding'? Have a look inside and see for yourself."
-[Enter the door] Clark was confused, but he followed the couple and entered the door. -> 328witchcraft
+*[Enter the door] Clark was confused, but he followed the couple and entered the door. -> 328witchcraft
 
 ===328witchcraft
 Inside the door, there was a weird scent flowing all around the place. As Mr Quinn lit up the candle, Clark could not believe what he was seeing. There were multiple counters that were engraved with weird symbols and writings. Containers and phials were all over the place, filling with weird colored liquid. 
@@ -310,7 +308,6 @@ FIN.
 ->END
 
 
-->END
 
 ===32strange_room
 Clark arrived at their room, and strangely the door remained unlocked and slighly opened. Clark knocked the door twice, perhaps for a sense of formality, and stepped inside the room in hope that the Quinn were in there. Unsurprisingly, the Quinn couple was not in their room, but Clark did notice something else.
@@ -352,18 +349,15 @@ Clark saw a latch that looked way out of place.
 Clark remembered last time he pulled the latch something terrifying happened. 
 *[Pull the latch anyway] -> 32422open
 *[Stray away and keep going] Clark kept going forward and soon he stumbled upon a door. -> 325block
-->END
 ===32422open
 Clark opened the latch and saw a pair of eyes looking straight back at him. 
 ~Insanity+=1
 *[Turn around and keep going] As Clark was horrified by the scene, he quickly turned around and kept going. Not soon after, he calmed himself down and stumbled upon a door. -> 325block
 
-->END
 ===322shoes
 Clark noticed the couples' shoes were still in the room. How odd.
 *Surely they won't go anywhere without their shoes on...  ->323breeze
 
-->END
 
 
 
