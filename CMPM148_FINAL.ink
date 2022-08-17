@@ -154,6 +154,11 @@ It was a rough night for Clark. But as the birds began chirping their echoes all
 Having been familiarized himself with the estate yesterday, Clark quickly moved to the living room to rendevouz with the Quinn and the others. As he was approaching the area, he was amazed that he wasn't the first one to arrive. In fact, Clark arrived the last. Everyone else were already there, murmuring in each of the corners under an odd atmosphere. Clark stood there in the opening and tried to get a sense of what's happening, and finally he realized something. 
 The Quinn couple wasn't present, and all the others were discussing the missing of the couple on their own.
 *[Find the couple] ->32strange_room
+*[Ask about the couple] ->33courtyard
+
+===33courtyard
+Clark walked inside and tried to gather some information. 
+->END
 
 ===32strange_room
 Clark cannot stand the atmosphere and decided to look for the Quinn on his own. He arrived at their room, and strangely the door remained unlocked and slighly opened. Clark knocked the door twice, perhaps for a sense of formality, and stepped inside the room in hope that the Quinn were in there. Unsurprisingly, the Quinn couple was not in their room, but Clark did notice something else.
@@ -176,7 +181,7 @@ Clark was confused, why were two actors' names on the Quinns' briefcases?
 *[Are the Quinns not the Quinns?] -> 323breeze
 
 ===323breeze
-As Clark was occupied by the confusing thoughts, he felt a breeze that shivers his spine from underneath. There was a slightly crack on the floor, leaving a small creek for the frozen stream to ascend. Clark shaked at first, but soon after he realized that the stream of cold means something was beneath the floor. Clark regained his posture and put his fingers underneath the cracked floor.  
+As Clark was occupied by the confusing thoughts, he felt a breeze that shivers his spine from underneath. There was a slightly crack on the floor, leaving a small creek for the frozen stream to ascend. Clark shaked at first, but soon after he realized that the stream of cold means something was beneath the floor. Clark regained his posture and put his fingers underneath the cracked floor. He quickly sensed a round object with polished texture. He put both hands under the floor to try to lift up the cracked wooden tile, and indeed he succeeded. What's under the tile though, surprised Clark, as the rounded polished object turned out to be a doorknob, and the door that laid on the surface of the floor was opened. That was where the flow of breeze was coming from.
 ->END
 ===322shoes
 
