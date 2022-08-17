@@ -252,13 +252,41 @@ Out of nowhere, Clark stumbled upon a man dressed with a black robe.
 Clark heard what the man was talking, but at the same time did not hear in a thing. Just as he regained his posture and tried to break way, he felt something pierce from his mouth through his head, and he slowly lost his consciousness.
 But before he completely lost sight in front of him, he took a look at the man with the robe. Clark thought he saw this face beneath the robe somewhere in the estate, and left dying with an awed face......
 
+FIN.
 
 ->END
 
 ===3261bigFinding
+
+
 ->END
 
 ===326normalhe1
+Clark took a look around the door and spotted no key. He tried his luck and just pulled the door handle and the door actually opened. After peeking into the door, Clark carefully stepped inside and found something amazing. 
+Behind the door was a room filled with lavish furnitures. It was a bit dark inside but it was filled with dimmed candlelights. From afar, where the voices were coming from, sat a gray-haired man on a huge couch. He was having a conversation with the Quinn couple.
+The man and the couple seemed to be enjoying themselves with the conversation and did not see Clark, so he made his presence:
+"Mr and Mrs Clark?"
+The couple quickly turned around and were amazed to see Clark.
+"Oh, Clark! Wow! I totally do not expect to see you here." Mr. Quinn quickly stood up and welcomed Clark toward the couch area. 
+"Yes uh... we are quite worried about you too, because you guys just went missing..." Clark continued, "and I went looking for you and ended up here."
+"Right. We are sorry about that, but as you can see, we are indeed not missing but very lively here, with none other than Mr. Marshall himself."
+Clark couldn't believe what he had just heard. "Mr... Mr. Marshall?"
+"Aye son, I am Marshall, the owner of this estate." The old man on the other couch said to Clark. 
+*[Ask more about the situation] -> 327he
+
+===327he
+"Well, if you are Mr. Marshall, then what am I doing here? I thought I am here by your will to inherit this estate!" Clark raised his voice a little bit, since this was way out of his knowledge.
+Mr. Marshall adjusted his body on the couch, slowly brushed his beard and finally said:
+"First of all, thank you for indulging me the pleasure to hold this trickery. And I am sorry that there will be no iheritance for you, or any other people that are in the estate right now. The truth is that in every year, I arrange some kinds of situation for people to come to my house." 
+Mr. Marshall sipped some tea and continued. "This year, I even prepare something special. Ah yes, a murder case. Mr eh... Quinn here is actually the famous "Badguy", Frederick Tate. And Mrs. Quinn is here is Mary Paul. Those names sound familiar to you?"
+"Well, all I know is that they are actors." Clark was starting to comprehend the situation.
+"Exactly! And I hired them to make up a murder case to have some fun inside the estate!" Mr Marshall laughed by himself.
+"I am sorry Clark, but nice to meet you." Mrs Quinn said to Clark playfully.
+*"So... this is just a show for you to enjoy?" 
+"Oh no, certainly not. This is a show for US to enjoy, don't you think son? I arrange this to not only fulfill my old yet playful heart, but to also ease my guests from all the stress, problems, and pressure that they might feel in their everyday lives!" 
+Clark laughed, almost a relieving laugh as he accepted the truth. There was no will, no inheritance, and no "cases". Although he was quite disappointed with the truth considering he was effectively jobless, but he appreciated Mr Marshall's play, and decided to keep this as a secret to the others in the estate and finished enjoying his "holidays". 
+
+FIN.
 
 ->END
 
