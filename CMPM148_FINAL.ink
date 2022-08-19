@@ -7,7 +7,8 @@ Clark lay in bed, tossing and turning. It wasn't the faint musty smell of the ro
 *Begin to recall the events of the last few days.
 ->11Countryhouse
 ===11Countryhouse
-"So you're one of the beneficiaries of the will, Auntie?" "Yes, it's so nice to receive such a large sum of money out of the blue."
+"So you're one of the beneficiaries of the will, Auntie?" 
+"Yes, it's so nice to receive such a large sum of money out of the blue."
 *"But who exactly is Mr Marshall and why have I never heard of him?"
 ->Whos_is_Marshall
 ===Whos_is_Marshall
@@ -126,21 +127,22 @@ Clark rushed out, found a bin and spat out all the food in his mouth. As he was 
 Clark noticed Jareks who was reading the newspaper and asked him something about the inheritance.
 *{221Dairy}I found Mr Marshall's notebook.
 ->2332Discussing_witchcraft
-*What kind of person was marshall in his lifetime
+*"What kind of person was marshall in his lifetime?"
 ->2321Marshalls_lifetime
 ===2332Discussing_witchcraft
 Mr. Jerrix, with grave eyes, sighed and said, "This is Mr. Marshall's diary, a diary which records all the efforts he has made since the death of his son." Efforts? ''"Yes, he has been obsessed with witchcraft and tried to resurrect his son using witchcraft." Clark felt a bad chill run through him, as if he felt something and couldn't say it, as if a stone was weighing on his heart.
 ->24rest_of_day
 
 ===2321Marshalls_lifetime
-It is not surprising that he could come up with such a strange will; he was himself a great lover of mischief. There was an amused gleam in Mr. Jerrix's eyes, as if he was recalling all the stories of Marshall's life.
+"It is not surprising that he could come up with such a strange will; he was himself a great lover of mischief."
+There was an amused gleam in Mr. Jerrix's eyes, as if he was recalling all the stories of Marshall's life.
 ->24rest_of_day
 
 ===24rest_of_day
 The rest of the day passed in peace and it was soon time for dinner.
 ->25big_founding
 ===25big_founding
-At dinner time, the Quinn's told everyone they had made a "big findingThe Quinn couple have promised to take everyone along to see the big finding tomorrow.
+At dinner time, the Quinn's told everyone they had made a "big finding". The Quinn couple have promised to take everyone along to see the big finding tomorrow.
 ->26Mdinight
 ===26Mdinight
 At midnight, Clark was awakened by a nightmare. He looked through the window and saw a strange man dragging a large sack, slowly making his way to the woods behind the house.Out of fear, he dared not look any further and went back to bed, shivering
@@ -208,7 +210,7 @@ Clark actually did not want to look for them on his own, he just wanted to escap
 
 ===3321tellEveryone
 With the current situation, Clark decided to tell everyone in the room about what he saw last night. 
-"I woke up in the middle of the night due to a nightmare," Clark began, "out of nowhere, I saw a dragging a huge sack inside the woods at the back."
+"I woke up in the middle of the night due to a nightmare," Clark began, "out of nowhere, I saw a figure dragging a huge sack inside the woods at the back."
 The crowd remained silent, and Clark continued.
 "I was scared and hid myself under the bed sheet, but that was some weird things going on inside the woods, don't you all agree?" 
 Clark felt that what he saw last night was related to the bloodstains and the missing couple.
@@ -274,15 +276,13 @@ The time was already late after the group dispersed, and Clark went straight int
 
 ->Day3
 
-===Day3
 
-->END
 
 ===326normalhe1
 Clark took a look around the door and spotted no key. He tried his luck and just pulled the door handle and the door actually opened. After peeking into the door, Clark carefully stepped inside and found something amazing. 
 Behind the door was a room filled with lavish furnitures. It was a bit dark inside but it was filled with dimmed candlelights. From afar, where the voices were coming from, sat a gray-haired man on a huge couch. He was having a conversation with the Quinn couple.
 The man and the couple seemed to be enjoying themselves with the conversation and did not see Clark, so he made his presence:
-"Mr and Mrs Clark?"
+"Mr and Mrs Quinn?"
 The couple quickly turned around and were amazed to see Clark.
 "Oh, Clark! Wow! I totally do not expect to see you here." Mr. Quinn quickly stood up and welcomed Clark toward the couch area. 
 "Yes uh... we are quite worried about you too, because you guys just went missing..." Clark continued, "and I went looking for you and ended up here."
@@ -359,7 +359,253 @@ Clark noticed the couples' shoes were still in the room. How odd.
 *Surely they won't go anywhere without their shoes on...  ->323breeze
 
 
+===Day3
+Clark was greeted by the morning sun, which didn't seem to warm up the room despite the way it illuminated the space. He tossed and turned, thinking about the events of the night before. The blood, the secret room… What could this all mean? Something is not adding up. 
+But laying around in bed isn’t going to solve anything, is it?
+*[Get up and get ready for the day] -> 4200getready
 
+===4200getready
+He changed into his clothes and set out for the day. He walked along the corridor, eyes scanning everything and anything in hopes of finding some kind of clue. 
+“Mr. Clark? Is something wrong,” a voice asked behind him. He jumped and turned to find a girl staring back at him. 
+“Huh?”
+“You were staring at that painting for quite a bit.”
+“ Oh? Was I? I think I might’ve just been deep in thought,” Clark gave a nervous chuckle, placing his hand over his chest as if it would help to slow down his surprised heart. He had never seen her before, but she was wearing something similar to what Leo usually wears, so he assumed that she was one of the housekeepers. 
+He looked up to look at the said painting. It was a portrait of an older man with quite the stereotypical appearance: lean, white hair and beard, a stern look on his face that paired along with the wrinkles on his frown lines. He wore an expensive-looking suit and lots of accessories befitting his financial status, and yet there seemed to be a dark atmosphere around him despite the shine from his accessories. He guessed that it was Marshall.
+*["May I ask you something?"] -> 4300questions
+
+===4300questions
+She stood still behind him, almost unmoving.
+"What would you like to know?"
++["What kind of person was Mr.Marshall"] -> 4310answer
++["What do you know about witchcraft in the house?"] ->4320answer
++["How did you get behind me?"] ->4330answer
+*["Nothing else"] ->4400choice
+
+===4310answer
+“Mr Marshal was a respectable man. A gracious one too. He treated us well, but was never really around. He also seemed to be distant at times…” She shook her head. “ I’m sorry, I don’t know him that well. Not a lot of people do. At least, not any deeper than what he shows”.
+*[Ah, I see] ->4300questions
+
+===4320answer
+“Witchcraft?” Suddenly, her composure broke, and her giggles echoed along the corridor. “I’m sorry, but I don’t know anything about witchcraft here”.
+“Although,” she looked around and leaned in. “It might be in your best interest to look around the library”, she whispered, “third case, third shelf, third book from the right”. She stepped back in her original spot and  her smile disappeared from her face, as if whatever possessed her at the moment had left her body.
+*[Ah... I see] ->4300questions
+
+===4330answer
+"She tilted her head to the side? “ I was behind you the entire time. Maybe you were just too focused on the painting?”
+“I wasn’t focused on the painting, though”
+“Well..."
+*[...] ->4300questions
+
+===4400choice
+You watched her walk down the hallway quietly. 
+
+“Mr. Clark!”
+
+You turn to see Leo coming from the other end of the hall.
+
+*{Insanity >= 2}[Follow the girl] -> 
+*[Wait for Leo] -> 4500Leo
+
+===4500Leo
+You watched Leo walk towards you down the hall, each footstep echoing loudly in the empty air. 
+“Leo” Clark greeted him casually.
+“Ah Mr. Clark. I have been looking for you all morning. Didn’t see you at breakfast so I thought I’d come fetch ya.”
+“Breakfast? Oh god, what time is it?”
+“ It is half past noon” 
+“Half past noon?!” Clark swore he woke up not too long ago. Has he been standing here for hours? He looked at the painting again and felt a shiver down his spine. The eyes… looked a little too real. The way the color blended into the whites of his eye- 
+“Mr. Clark?” 
+Clark snapped back into reality. “Ah, sorry about that. I seem to be out of it recently.”
+“Don’t you worry about it. Aye, with all that’s been happening the past couple of days, it’s bound to shake ya in yalls boots,” Leo says. “So… what would you like to do for your breakfast?”
+“I think I’ll skip it for today”. The unsettling feeling in his stomach seemed to rid of his appetite for the day.
+
+*[Ask about the library] -> 4600asklibrary
+
+===4600asklibrary
+“Oh the library?” Leo asked surprisingly. 
+“Why are you so surprised?”
+“No reason, really. It’s just that no one likes to go to that place. Gives a lot of people the creeps.” Leo shuddered. “Would ya look at that,” he exclaimed, “seems as though even talking about it ain’t no good”.
+
+“Well, I would still like to take a look”
+
+“You like reading?”
+
+“... Maybe. Every now and then”
+
+Leo gives you a hard look. “Alright. It’s up the stairs and a couple doors down to the left. You’ll know which one it is. It’s gonna be them big doors”.
+
+*[Head to the library] ->  4700atlibrary
+
+===4700atlibrary
+Clark thanked him and walked towards the stairs, footsteps filling the void. 
+He climbed up the wooden stairs in the main hall, and turned left. Just like Leo had instructed, there were a pair of big doors further down the hall. Clark stood in front of the door. It was quite big, bigger than the other doors.The door demanded attention with its ornate carvings and details. However, the carvings of ivy and snakes did not seem welcoming for those passing by. Even Clark felt a bit intimidated. Not because of the door, but because of what Leo had said before. 
+*[Open the door] -> 4800inlibrary
+
+===4800inlibrary
+With a gulp, Clark turned the brass doorknobs and pushed. Surprisingly enough, the door swung open with just a push. The room was dark, with only a stained glass window to illuminate the room with its colors. A cold breeze swept through the room.
+
+Clark stepped into the room and thought, shit.
+
+The room was filled with bookcases, expanding across the walls either side of him. How is he supposed to know which third case it is? Left? Right?
++[Right] -> 4810right
++[Left] -> 4820left
+
+===4810right
+He turned to the right.
+
+Third case…
+Third shelf…
+Third book…
+
+He picked up the dusty book. The cover read “Pride and Prejudice”. 
+
+“What the..” Clark mumbled, “Who knew this was the old man’s taste?”
+
+*[Return]-> 4800inlibrary
+
+===4820left
+He turned to the left
+Third case…
+Third shelf…
+Third book…
+
+He picked up the dusty book. The cover read “Persuasion”.
+
+“What the..” Clark mumbled, “Who knew this was the old man’s taste?”
+
+Just then the book slipped out of its covers and onto the ground. 
+
+He picked up the book and examined the cover. There was no title. Rather, it seemed more like a diary almost. It was leather bound, with the edges of the pages worn out. 
+*[Open the book] -> 4900openbook
+
+===4900openbook
+Clark flipped through the pages. The contents were written in ink with elegant penmanship. If it weren't for the graphic diagrams and ominous symbols, one could say that the pages were beautiful.  On the sides were little writings, something that you would see in like a student’s notes. He flipped the next page.
+
+Subject 1.
+Species: Rat
+Time of dea - 
+
+Clark closed the book. He didn’t want to look any further. He realized what he had seen. It was a record of different test subjects.  For witchcraft. 
+He had to leave. He felt his empty stomach churn. And the colors of the stained glass windows were not helping
+
+*[Leave] -> 4110exitlibrary
+
+===4110exitlibrary
+He stumbled out of the library and was grateful for the musty hallway air. He took a deep breath, trying to control the growing acidity in his stomach. Maybe a glass of water would help.
+
+*[go to the kitchen] ->4111kitchen
+
+===4111kitchen
+He walked into a lively kitchen, with Auntie Penny cooking up something for dinner. She was humming a little tune as she swayed side to side to the beat. 
+“Oh Clarky, you’re just in time for dinner! Oh come sit, you must be hungry”
+She motioned for you to sit as she started plating the food. It smelled… interesting. 
+
+*[Sit and Eat] -> 4112death
+*[Make an excuse] -> 4113excuse
+
+===4112death
+Clark sat down and started eating. It was actually decent at first, even though he didn’t know exactly what he was eating. 
+Suddenly, Clark felt his stomach churn. Pain starts erupting from the bottom of his stomach and he starts to feel fire burning in his stomach lining. He grasped his stomach in hopes that the pressure would ease the pain, but he felt something rising in his throat. It blocked his throat, forcing him to spit out the food and blood. He covered his mouth with his hand, trying to stop the bright red blood from dripping from his mouth. He felt hot. The pain was subsiding, or was he just losing consciousness? Aunty Penny screamed, but even that sounded distant. The world spun, and suddenly, he couldn’t see.
+
+FIN.
+
+->END
+
+===4113excuse
+“Thank you, but I had a late lunch so I’m not too hungry,” Clark lied. 
+“Oh is that so?” She turned to take a look. “But you look so thin, Clarky, and so pale”.
+He touched his face, and noticed that he did seem a little thinner. “Oh, I’m sure it’s all the walking I’ve been doing recently”
+“Oh is that so? Well, I guess it is good to get some exercise in” She turned back to her stove. “Did you need anything, sweetie?” 
+Clark thought about eating, but the smell seemed to rid of his appetite once more. 
+“No, I think I’m good, I was just wandering around”
+
+*[Leave] -> 4114hallway
+
+===4114hallway
+He left the kitchen and went back into the hall. The sun was setting, casting long and dark shadows in the hallway. Deep in thought, he started wandering around the mansion. 
+
+Clark felt something tickle the back of his neck, as if someone was staring at him. He looked back. He was alone in this empty hallway. And yet, Clark felt very nervous. He continued to walk down the hall. Suddenly, he heard steps behind him. It followed his pace, step by step. 
+
+*[Walk] ->
+
+===4115steps
+Step.
+Step.
+Step.
+
+*[Look beind] -> 4116stranger
+
+===4116stranger
+Clark whirled around to face whatever was behind him. At the other end of the hall, he saw a silhouette. The sun just about set, and the silhouette was hidden in the shadows. 
+*[RUN] ->
+
+===4117chase
+Clark ran as fast he could. His feet hit the ground, the shock of the impact burning up to his knees, but he didn’t care. He ran, the musty mansion air in his face, and the clothes sticking onto his frame. He couldn’t look back… could he?
+
+*[Look back] -> 4118death
+*[Keep running] -> 4119running
+
+===4118death
+He looked back, the shadow silhoutte hot on his trail, a lot closer than he had anticipated. The silhoutte was fast. Why was it so fast?
+He tried to run faster, but his foot got caught on a wrinkle of the rug. He fell on his arm, and he gasped from the pain of the impact. His arm was numb, and tried to get up back on his feet, but his legs gave out beneath him. He saw a shadow loom behind him. He tried to look back and see the face of the silhoutte as a last attempt of desperation, but the world turned black.
+And somewhere in the house, the clock struck midnight.
+
+FIN.
+
+-> END
+
+===4119running
+No, he had to keep going. He ran, but he felt his legs become weak. He knew he coudn’t run much longer. 
+
+*[Hide in a room]
+*[Keep going]
+
+===4120death
+He kept running. He didn’t even know if those rooms were locked and he didn’t know where this person behind him was either.
+Suddenly, he felt the rug slip benath him. He fell on his arm, and he gasped from the pain of the impact. His arm was numb, and tried to get up back on his feet, but his legs gave out beneath him. He saw a shadow loom behind him. He tried to look back and see the face of the silhoutte as a last attempt of desperation, but the world turned black.
+
+And somewhere in the house, the clock struck midnight
+
+FIN.
+
+->END
+
+===4121end
+He swerved to the side, grabbing onto the doorknob, and praying that it’ll unlock.
+Click
+The door opened. He rushed inside, closing the door behind him. His legs gave out, and he collapsed onto the ground. He gasped for air through his hands, in hopes that it would help muffle the sounds. 
+The room was silent and dark. He only heard his own breathing. His heartbeat rung in his ear.
+Step. Step. Step. Step.
+He heard slow footsteps beyond the door.
+Step. Step. Step
+It stopped at the door.
+The room was silent, but his heartbeat seemed to beat louder and louder.
+And somewhere in the mansion, the clock struck midnight
+
+*[Day 4] -> Day4
+
+===4122insanity
+“Hey, wait up!”
+The girl continued to walk and Clark tried to run, but he was… running in place?
+Suddenly the walls started to distort. Faces appeared from the swirls of the flowered wallpapers. The faces stretched and stretched in agony, as if someone was puling on the skins of their faces. Clark tried to move, but arms rose from the carpets and pulled him in. He was losing control.
+“Wait!” He cried “Help me!”
+But the girl only continued to walk until she melded into the wallpapers. The walls started to melt and cave in, pooling around his legs as he struggled to be free the grasps of the hands. Was he dying? Was he hallucinating? Or was he going crazy? The sound of metal clanging that started afar, semeed to have become loud enough for it to be right next to his ear. He tried to block his ears, but it was no use. 
+He slumped into the melting ground, feeling his face become one with the paint of agonizing faces. 
+
+And somewhere in the distance, he heard the clock strike midnight.
+
+FIN.
+
+-> END
+
+
+===Day4
+
+
+
+
+
+
+->END
 
 
 
