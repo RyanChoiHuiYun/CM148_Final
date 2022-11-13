@@ -1,7 +1,7 @@
 # CM148 Final Project: Three Nights Until Midnight
 By Ryan Cai, Noah Hart, Ellen Kim, Yicheng Xiang
 
-## Play via web
+## Play via browser
 Download the folder named CMPM148FinalProject.  
 Open the folder.  
 Run index.html.  
